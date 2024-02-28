@@ -1,0 +1,19 @@
+{
+  "name": "feed-the-soul",
+  "version": "1.0.0",
+  "description": "An application that generates a random quote or a random bible verse.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lilibeth Neal",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "inspirational-quotes": "^2.0.1",
+    "random-verse": "^1.0.1"
+  }
+}
